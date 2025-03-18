@@ -704,7 +704,7 @@ void BgGenerate(NCLR *nclr, NCGR *ncgr, NSCR *nscr, COLOR32 *imgBits, int width,
 	int alignment = params->characterSetting.alignment;
 
 	//cursory sanity checks
-	if (nPalettes > 16) nPalettes = 16;
+	if (nPalettes > 256) nPalettes = 256;
 	else if (nPalettes < 1) nPalettes = 1;
 	if (params->nBits == 4) {
 		if (paletteBase >= 16) paletteBase = 15;
