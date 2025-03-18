@@ -1,7 +1,8 @@
 # IMPORTANT
 
 This repository is modified for expand palette limit by cam900.
-Original repository is by Garhoogin, see https://github.com/Garhoogin/NitroPaint to details.
+
+Original repository is by Garhoogin, see https://github.com/Garhoogin/NitroPaint to details. (BSD 2-Clause License)
 
 # NitroPaint
 
