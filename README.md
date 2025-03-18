@@ -1,3 +1,8 @@
+# IMPORTANT
+
+This repository is modified for expand palette limit by cam900.
+Original repository is by Garhoogin, see https://github.com/Garhoogin/NitroPaint to details.
+
 # NitroPaint
 
 NitroPaint is a general purpose DS graphics editor. It supports a wide range of file formats. It is geared towards editing color palettes, character graphics, BG screen data, OBJ cell data, cell animations, textures, and texture archives. NitroPaint automatically detects if files are compressed if they are in one of the supported compression types, and automatically decompresses it (and recompresses on save). The file format is also automatically idenfitied if it is supported. Malformed or unsupported files may open as raw data when the file type cannot be determined.
